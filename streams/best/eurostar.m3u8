@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3100000,CODECS="",RESOLUTION=1920x1080
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b3128000.m3u8?st=6FOah2UWQR1KL5ul0J8KWw&e=1726129001
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
+http://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=fuK3lCM5MZnystBAJ3w1fg&e=1726135977
